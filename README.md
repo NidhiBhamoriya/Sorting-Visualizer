@@ -8,8 +8,10 @@
 -> I created this project to visually demonstrate the working of three sorting algorithms: Bubble Sort, Selection Sort, and Insertion Sort.
 
 
+
 ## Aim: 
 -> This project serves as an educational tool to make learning algorithms more intuitive and engaging.
+
 
 
 ## Key Features:
