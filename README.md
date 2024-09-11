@@ -24,5 +24,7 @@
 
 ### Sorting Algorithms:
 -> Bubble Sort: Visualizes comparisons and swaps in real-time with smooth transitions.
+
 -> Selection Sort: Highlights the maximum element and its correct placement in each iteration.
+
 -> Insertion Sort: Shows the insertion process step-by-step as elements are placed in their sorted position.
