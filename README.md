@@ -16,16 +16,16 @@
 
 ## Key Features:
 
-### Customizable Sorting Speed: 
+### 1) Customizable Sorting Speed: 
 -> Includes a slider that allows users to adjust the sorting speed as desired.
 
-### Dynamic Step-by-Step Messages: 
+### 2) Dynamic Step-by-Step Messages: 
 -> Displays concise, engaging messages during guide users through the sorting process, explaining each step clearly.
 
-### Responsive Design: 
+### 3) Responsive Design: 
 -> Optimized for devices of all sizes, providing a seamless experience across screens.
 
-### Sorting Algorithms:
+### 4) Sorting Algorithms:
 -> Bubble Sort: Visualizes comparisons and swaps in real-time with smooth transitions.
 
 -> Selection Sort: Highlights the maximum element and its correct placement in each iteration.
