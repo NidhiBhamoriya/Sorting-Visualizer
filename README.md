@@ -2,24 +2,24 @@
 
 ### Sorting Visualizer is a web application,  It provides an interactive way to visualize classic sorting algorithms.
 
--> I built this Sorting Visualizer using HTML, CSS, and JavaScript with a focus on responsiveness to work seamlessly across devices.
--> I created this project to visually demonstrate the working of three sorting algorithms: Bubble Sort, Selection Sort, and Insertion Sort.
+##### -> I built this Sorting Visualizer using HTML, CSS, and JavaScript with a focus on responsiveness to work seamlessly across devices.
+##### -> I created this project to visually demonstrate the working of three sorting algorithms: Bubble Sort, Selection Sort, and Insertion Sort.
 
 ## Aim: 
--> This project serves as an educational tool to make learning algorithms more intuitive and engaging.
+####-> This project serves as an educational tool to make learning algorithms more intuitive and engaging.
 
 ## Key Features:
 
 ### Customizable Sorting Speed: 
--> Includes a slider that allows users to adjust the sorting speed as desired.
+####-> Includes a slider that allows users to adjust the sorting speed as desired.
 
 ### Dynamic Step-by-Step Messages: 
--> Displays concise, engaging messages during guide users through the sorting process, explaining each step clearly.
+####-> Displays concise, engaging messages during guide users through the sorting process, explaining each step clearly.
 
 ### Responsive Design: 
--> Optimized for devices of all sizes, providing a seamless experience across screens.
+####-> Optimized for devices of all sizes, providing a seamless experience across screens.
 
 ### Sorting Algorithms:
--> Bubble Sort: Visualizes comparisons and swaps in real-time with smooth transitions.
--> Selection Sort: Highlights the maximum element and its correct placement in each iteration.
--> Insertion Sort: Shows the insertion process step-by-step as elements are placed in their sorted position.
+####-> Bubble Sort: Visualizes comparisons and swaps in real-time with smooth transitions.
+####-> Selection Sort: Highlights the maximum element and its correct placement in each iteration.
+####-> Insertion Sort: Shows the insertion process step-by-step as elements are placed in their sorted position.
