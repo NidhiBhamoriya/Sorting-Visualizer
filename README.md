@@ -32,3 +32,5 @@
 
 -> Insertion Sort: Shows the insertion process step-by-step as elements are placed in their sorted position.
 
+[](![Sorting_Visualizer_landscape_device](https://github.com/user-attachments/assets/8265e600-8d4e-476c-987c-f5c098b6b8ca))
+
