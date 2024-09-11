@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insertion Sort Visualizer</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+            height: 300px;
+            margin: 50px;
+            position: relative;
+        }
+        .bar {
+            width: 30px;
+            margin: 0 2px;
+            background-color: #3498db;
+            position: absolute;
+            transition: transform 0.3s ease, background-color 0.3s ease;
+        }
+        .highlight {
+            background-color: #e74c3c !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="container" id="container"></div>
+
+    <script>
+        const container = document.getElementById('container');
+
+        let array = [50, 40, 30, 20, 10];
+
+        // Create bars for each element in the array
+        array.forEach((value, index) => {
+            const bar = document.createElement('div');
+            bar.style.height = `${value * 5}px`;
+            bar.style.left = `${index * 34}px`; // Positioning bars
+            bar.classList.add('bar');
+            container.appendChild(bar);
+        });
+
+        async function insertionSort() {
+            const bars = document.querySelectorAll('.bar');
+            
+            for (let i = 1; i < bars.length; i++) {
+                let key = parseInt(bars[i].style.height);
+                let j = i - 1;
+
+                bars[i].classList.add('highlight'); // Highlight the current bar being inserted
+                await new Promise(resolve => setTimeout(resolve, 300));
+
+                // Move bars to the right to make space for the key
+                while (j >= 0 && parseInt(bars[j].style.height) > key) {
+                    bars[j + 1].style.transform = `translateX(${34}px)`;
+                    j = j - 1;
+                    await new Promise(resolve => setTimeout(resolve, 300)); // Pause for visualization
+                }
+
+                // Move the key bar into the correct position
+                bars[i].style.transform = `translateX(${(j + 1 - i) * 34}px)`;
+                await new Promise(resolve => setTimeout(resolve, 300));
+
+                bars[i].classList.remove('highlight');
+                bars.forEach(bar => bar.style.transform = ''); // Reset the transform for all bars
+            }
+        }
+
+        insertionSort();
+    </script>
+</body>
+</html>
