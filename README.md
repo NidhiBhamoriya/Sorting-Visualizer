@@ -33,6 +33,11 @@
 -> Insertion Sort: Shows the insertion process step-by-step as elements are placed in their sorted position.
 
 
-## Landscape view :
+## Landscape view of my project :
 
 ![image alt](https://github.com/user-attachments/assets/7ff04614-0121-477f-afdd-42067047aa75)
+
+
+## Portrait view of my project :
+
+![image alt](https://github.com/user-attachments/assets/cae60936-f663-4abd-a2b7-bc981ff909f9)
