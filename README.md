@@ -32,7 +32,9 @@
 
 -> Insertion Sort: Shows the insertion process step-by-step as elements are placed in their sorted position.
 
-## Check out the live version of the project [here](https://nidhibhamoriya.github.io/Sorting-Visualizer/)
+
+## 🌐 Check out the live version of the project [here](https://nidhibhamoriya.github.io/Sorting-Visualizer/)
+
 
 ## Landscape view of my project :
 
