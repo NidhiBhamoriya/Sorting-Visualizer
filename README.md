@@ -4,7 +4,7 @@
 
 ### Sorting Visualizer is a web application that provides an interactive way to visualize classic sorting algorithms.
 
-**->** I built this Sorting Visualizer using **HTML**, **CSS**, and **JavaScript**, with a focus on responsiveness to work seamlessly across devices, e.g., desktop and mobile devices.
+**->** I built this Sorting Visualizer using **HTML**, **CSS**, and **JavaScript**, with a focus on responsiveness to work seamlessly across devices, e.g., **desktop** and **mobile devices**.
 
 **->** I developed this project to visually demonstrate the working of three sorting algorithms: **Bubble Sort**, **Selection Sort**, and **Insertion Sort**.
 
@@ -32,9 +32,9 @@
 ### 5) Sorting Algorithms:
 **->** Bubble Sort: Visualizes comparisons and swaps in real-time with smooth transitions.
 
--> Selection Sort: Highlights the maximum element and its correct placement in each iteration.
+**->** Selection Sort: Highlights the maximum element and its correct placement in each iteration.
 
--> Insertion Sort: Shows the insertion process step-by-step as elements are placed in their sorted position.
+**->** Insertion Sort: Shows the insertion process step-by-step as elements are placed in their sorted position.
 
 
 ## 🌐 Check out the live version of the project [here](https://nidhibhamoriya.github.io/Sorting-Visualizer/)
