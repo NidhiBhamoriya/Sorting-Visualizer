@@ -3,7 +3,7 @@
 
 ### Sorting Visualizer is a web application,  It provides an interactive way to visualize classic sorting algorithms.
 
--> I built this Sorting Visualizer using HTML, CSS, and JavaScript, with a focus on responsiveness for both desktop and mobile devices.
+-> I built this Sorting Visualizer using HTML, CSS, and JavaScript, with a focus on responsiveness to work seamlessly across devices, ex: desktop and mobile devices.
 
 -> I developed this project to visually demonstrate the working of three sorting algorithms: Bubble Sort, Selection Sort, and Insertion Sort.
 
@@ -22,8 +22,11 @@
 ### 2) Dynamic Step-by-Step Messages: 
 -> Displays concise, engaging messages during guide users through the sorting process, explaining each step clearly.
 
+### 3) Real-Time Visual Effects: 
+-> Includes real-time visualizations that highlight the sorting process, making it easier for users to grasp how the sorting algorithms work.
+
 ### 3) Responsive Design: 
--> Optimized for devices of all sizes, providing a seamless experience across screens.
+-> Providing a seamless experience across screens Whether on desktop or mobile.
 
 ### 4) Sorting Algorithms:
 -> Bubble Sort: Visualizes comparisons and swaps in real-time with smooth transitions.
