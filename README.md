@@ -36,7 +36,7 @@
 
 **->** **Insertion Sort:** Shows the insertion process step-by-step as elements are placed in their sorted position.
 
-<br>
+
 
 ## 🚀 Live Demo:
 
