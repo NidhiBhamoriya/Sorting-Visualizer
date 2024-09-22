@@ -41,14 +41,14 @@
 ## 🚀 Live Demo:
 
 
-## 🌐 Check out the live version of the project [here](https://nidhibhamoriya.github.io/Sorting-Visualizer/)
+### 🌐 Check out the live version of the project [here](https://nidhibhamoriya.github.io/Sorting-Visualizer/)
 
 
-## ● Landscape view :<br>
+### ● Landscape view :<br>
 
 ![image alt](https://github.com/user-attachments/assets/7ff04614-0121-477f-afdd-42067047aa75)
 
 
-## ● Portrait view : <br>
+### ● Portrait view : <br>
 
 ![image alt](https://github.com/user-attachments/assets/cae60936-f663-4abd-a2b7-bc981ff909f9)
