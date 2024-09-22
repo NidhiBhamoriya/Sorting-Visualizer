@@ -1,6 +1,6 @@
 # 🔍 Sorting Visualizer
 
-## Overview:
+## 📖 Overview:
 
 ### Sorting Visualizer is a web application that provides an interactive way to visualize classic sorting algorithms.
 
@@ -37,15 +37,17 @@
 **->** **Insertion Sort:** Shows the insertion process step-by-step as elements are placed in their sorted position.
 
 
-## 🌐 Check out the live version of the project [here](https://nidhibhamoriya.github.io/Sorting-Visualizer/)
+## 🚀 Live Demo:
 
-## Landscape view :
+##3 🌐 Check out the live version of the project [here](https://nidhibhamoriya.github.io/Sorting-Visualizer/)
+
+##3 ● Landscape view :
 
 
 ![image alt](https://github.com/user-attachments/assets/7ff04614-0121-477f-afdd-42067047aa75)
 
 
-## Portrait view :
+##3 ● Portrait view :
 
 
 ![image alt](https://github.com/user-attachments/assets/cae60936-f663-4abd-a2b7-bc981ff909f9)
