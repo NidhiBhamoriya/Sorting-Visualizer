@@ -1,4 +1,4 @@
-# Sorting Visualizer
+# 🔍 Sorting Visualizer
 
 ## Overview:
 
@@ -10,14 +10,14 @@
 
 
 
-## Aim: 
+## 🎯 Aim: 
 
 ### -> This project serves as an educational tool to make learning algorithms more intuitive and engaging.
 
 
-## Key Features:
+## ✨ Key Features:
 
-### 1) Customizable Sorting Speed: 
+###     1) Customizable Sorting Speed: 
 **->** Includes a **slider** that allows users to adjust the sorting speed as desired.
 
 ### 2) Dynamic Step-by-Step Messages: 
