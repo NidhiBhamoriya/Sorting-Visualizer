@@ -17,10 +17,10 @@
 
 ## ✨ Key Features:
 
-###     1) Customizable Sorting Speed: 
+### 1. 🕒 Customizable Sorting Speed: 
 **->** Includes a **slider** that allows users to adjust the sorting speed as desired.
 
-### 2) Dynamic Step-by-Step Messages: 
+### 2. 📝 Dynamic Step-by-Step Messages: 
 **->** **message Area** that Display concise, engaging messages that guide users through the sorting process, explaining each step clearly.
 
 ### 3) Real-Time Visual Effects: 
