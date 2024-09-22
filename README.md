@@ -12,7 +12,7 @@
 
 ## Aim: 
 
-#### -> This project serves as an educational tool to make learning algorithms more intuitive and engaging.
+### -> This project serves as an educational tool to make learning algorithms more intuitive and engaging.
 
 
 ## Key Features:
