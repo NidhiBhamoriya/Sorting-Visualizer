@@ -2,7 +2,7 @@
 
 ## Overview:
 
-**Sorting Visualizer is a web application that provides an interactive way to visualize classic sorting algorithms.**
+### Sorting Visualizer is a web application that provides an interactive way to visualize classic sorting algorithms.
 
 **->** I built this Sorting Visualizer using **HTML**, **CSS**, and **JavaScript**, with a focus on responsiveness to work seamlessly across all devices, e.g., **desktop** and **mobile devices**.
 
