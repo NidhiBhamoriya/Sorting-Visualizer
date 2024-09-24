@@ -2,7 +2,7 @@
 
 ## 📖 Overview:
 
-### Dive into the world of Web + DSA with my project Sorting Visualizer — a web application that provides an interactive way to visualize classic sorting algorithms.
+### Dive into the world of Web + DSA with my project Sorting Visualizer 📊 — a web application that provides an interactive way to visualize classic sorting algorithms.
 
 **->** An exciting, interactive tool that brings algorithms to life right before your eyes.
 
