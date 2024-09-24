@@ -1,4 +1,4 @@
-# 🔍 Sorting Visualizer
+# 🔍 Sorting Visualizer 📊 
 
 ## 📖 Overview:
 
