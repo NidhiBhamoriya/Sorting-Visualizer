@@ -2,11 +2,13 @@
 
 ## 📖 Overview:
 
-### Dive into the world of Web + DSA with my project Sorting Visualizer 📊 — a web application that provides an interactive way to visualize classic sorting algorithms.
+### Developed the Sorting Visualizer, a web application to visualize classic sorting algorithms such as Bubble Sort, Selection Sort, and Insertion Sort.
+
+**->** I combine **web development with DSA** to showcase algorithmic concepts through interactive visualizations.
 
 **->** An exciting, interactive tool that brings algorithms to life right before your eyes.
 
-**->** I developed this project to visually demonstrate the working of three classic sorting algorithms: **Bubble Sort**, **Selection Sort**, and **Insertion Sort**.
+**->** The project visually demonstrates how these three classic sorting algorithms work.
 
 **->** I built this Sorting Visualizer using **HTML**, **CSS**, and **JavaScript**, with a focus on responsiveness so that **it works seamlessly across all devices, whether on desktop or mobile**.
 
